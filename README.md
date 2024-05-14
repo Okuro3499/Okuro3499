@@ -1,7 +1,7 @@
 <h1 align="start">Hi 👋, I'm Gideon Okuro</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on [myPlanet](https://github.com/open-learning-exchange/myplanet)<br>
+🔭 I’m currently working on [myPlanet](https://github.com/open-learning-exchange/myplanet) and [Gari](https://github.com/Okuro3499/Gari)<br>
 🌱 I’m currently learning Jetpack Compose, SwiftUi, Kotlin Multiplatform<br>
 📫 How to reach me via [email](mailto:gideonollonde@gmail.com)<br>
 📄 Know about my experiences by having a look at my [curriculum vitae](https://docs.google.com/document/d/1ckHMng5iVeK6V1hVSHGAKJuZOxCUnU5N2F6_3OJkCcQ/edit?usp=sharing)<br>
