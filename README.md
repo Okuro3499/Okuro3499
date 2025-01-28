@@ -1,9 +1,7 @@
 <h1 align="start">Hi 👋, I'm Gideon Okuro</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on [myPlanet](https://github.com/open-learning-exchange/myplanet) and [Gari](https://github.com/Okuro3499/Gari)<br>
-🌱 I’m currently learning Jetpack Compose, SwiftUi, Kotlin Multiplatform<br>
-⚡ Fun fact Cars are life<br>
+I am a passionate Android developer with a strong foundation in Java and Kotlin. Currently, I am contributing to projects like [myPlanet](https://github.com/open-learning-exchange/myplanet) and [Gari](https://github.com/Okuro3499/Gari), focusing on enhancing user experiences and implementing robust functionalities. My learning journey includes exploring Jetpack Compose, SwiftUI, and Kotlin Multiplatform to stay abreast of modern development practices. Beyond coding, I have a keen interest in automobiles, reflecting my enthusiasm for innovation and engineering.
 
 
 ## 🌐 Socials:
@@ -35,13 +33,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Okuro3499&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Okuro3499&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Okuro3499&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Okuro3499&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Okuro3499&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
